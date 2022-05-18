@@ -1,0 +1,127 @@
+body {
+    background: url(https://wrmx00.epimg.net/radio/imagenes/2020/03/23/sociedad/1584984871_131285_1584985269_noticia_normal.jpg);
+    background-size: 100%;
+}
+
+.derecha1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+
+.formulario {
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 560px;
+    padding: 10px 0 0 0;
+    border-radius: 15px;
+    border: 1px solid rgb(191, 191, 191);
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+
+.formulario p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    color: #00205b;
+}
+
+.logoform {
+    color: #6EDCFA;
+    font-size: 50px;
+}
+
+.formulario label {
+    display: inline-block;
+    text-align: left;
+    width: 80%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color: #00205b;
+}
+
+.formulario input {
+    border-radius: 3px;
+    width: 80%;
+    border: none;
+    background-color: rgb(231, 231, 231);
+    height: 7%;
+    margin-bottom: 15px;
+}
+
+.terminos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    float: left;
+    margin-left: 40px;
+    color: #00205b;
+    font-weight: 600;
+}
+
+.terminos:hover{
+    color: #6EDCFA;  
+}
+
+.boton {
+    background-color: #00205b;
+    border: none;
+    border-radius: 5px;
+    width: 50%;
+    height: 30px;
+    color: white;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.boton:hover {
+    background-color: #6EDCFA;
+    color: #00205b;
+    font-weight: 600;
+}
+
+.derecha2 {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #ffffff;
+    height: 200px;
+    padding-top: 10px;
+    
+}
+
+.derecha2 p {
+    color: #00205b;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+
+}
+
+.iniciasesion {
+    border: #00205b solid 2px;
+    border-radius: 5px;
+    width: 200px;
+    height: 40px;
+    background-color: #ffffff;
+}
+
+.iniciasesion:hover {
+    background-color: rgb(239, 239, 239);
+}
+
+.boton2 {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: #00205b;
+}
