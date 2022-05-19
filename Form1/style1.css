@@ -1,6 +1,8 @@
 body {
     background: url(https://wrmx00.epimg.net/radio/imagenes/2020/03/23/sociedad/1584984871_131285_1584985269_noticia_normal.jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 0;
 }
 
 .derecha1 {
@@ -95,6 +97,8 @@ body {
     background-color: #ffffff;
     height: 200px;
     padding-top: 10px;
+    margin-top: 50px;
+    position: fixed;
     
 }
 
